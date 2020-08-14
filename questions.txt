@@ -1,0 +1,15 @@
+How would you describe acessibility on the web to someone new to programming?
+
+accessiblilty is what makes a site widely accessible to any and everyone who wants to use it.
+
+Talk about 3 different things you can do to ensure your website is accessible.
+
+To make a site more accessible you could use colors that aren't as harsh on the eye, like making the font grey instead on black. You could also make sure your HTML is semantic and fill in the alt attribute on your img tags.
+
+How would you explain the concept of a variable to someone new to programming?
+
+A would inform them that a variable is a fundamental piece of Javascript that allows us to store, and manipulate data.
+
+What is the purpose of using functions in code?
+
+The purpose of using functions in code is to have a defined block of code that has the ability to execute whatever you put inside of it as many times and ways that you need it when invoked.
